@@ -1,0 +1,23 @@
+{
+  "name": "pets",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Leandro Dias Bittencourt Silva"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/LeandroBittencourt/Pets",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.9",
+    "angular-route": "^1.4.9"
+  }
+}

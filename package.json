@@ -1,0 +1,24 @@
+{
+  "name": "pets",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroBittencourt/Pets.git"
+  },
+  "author": "Leandro Dias Bittencourt Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeandroBittencourt/Pets/issues"
+  },
+  "homepage": "https://github.com/LeandroBittencourt/Pets#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-load": "^1.1.15"
+  }
+}
